@@ -90,9 +90,9 @@ export const projects = [
     id: 3,
     title: "Shopify E-commerce",
     des: "A REAL Software-as-a-Service app using vanilla javascript",
-    img: "/VainllaJs.png",
-    iconLists: ["/html5.png", "/css.png", "/js.png"],
-    link: "https://shopify-two-wine.vercel.app/",
+    img: "/Imaginify.png",
+    iconLists: ["/next.svg", "/mongodb.svg", "/ts.svg", "/tail.svg"],
+    link: "https://imaginify-henna-delta.vercel.app",
   },
   {
     id: 4,
