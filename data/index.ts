@@ -88,7 +88,7 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Shopify E-commerce",
+    title: "AI SaaS Platform",
     des: "A REAL Software-as-a-Service app using vanilla javascript",
     img: "/Imaginify.png",
     iconLists: ["/next.svg", "/mongodb.svg", "/ts.svg", "/tail.svg"],
