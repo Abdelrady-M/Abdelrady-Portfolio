@@ -72,7 +72,7 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Full-Stack Todo Next.Js",
+    title: "Full-Stack-Todo",
     des: "Explore the wonders of Todo.",
     img: "/Full-Stack Todo App.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg","/prisma.png","/mongodb.svg"],
@@ -80,7 +80,7 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Walmart - E-commerce App",
+    title: "Walmart",
     des: "Simplify your Products",
     img: "/Walmart _ Save Money.Live better.png",
     iconLists: ["/re.svg", "/tail.svg", "/js.png","/node-js.svg","/mongodb.svg"],
@@ -96,11 +96,11 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Product Builder",
+    title: "NextJs Blog",
     des: "Product Builder Power of typescript",
-    img: "/Product Builder.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg",],
-    link: "https://product-builder-swart.vercel.app/",
+    img: "/blog.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/sanity.png"],
+    link: "https://blog-nextjs-sanity-eight-lyart.vercel.app/",
   },
 ];
 
